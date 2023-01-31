@@ -1,0 +1,5 @@
+After the properties files are created, run the below command
+git init 
+git branch -M main
+git add .
+git commit -m "First commit"
